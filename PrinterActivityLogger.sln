@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcdLocalPrinterCheckTest", "AcdLocalPrinterCheckTest.csproj", "{A4202B86-FF35-43A5-A9EE-1D0233DBF938}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterActivityLogger", "PrinterActivityLogger.csproj", "{A4202B86-FF35-43A5-A9EE-1D0233DBF938}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
