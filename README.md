@@ -1,4 +1,4 @@
-# PrinterActivityLogger
+# Printer Activity Logger
 
 PrinterActivityLogger is a simple .NET console application that uses Windows Management Instrumentation (WMI) to monitor print jobs on your local machine in real time. When run, it detects new print jobs, tracks their status changes, and prints informative messages to the console.
 
