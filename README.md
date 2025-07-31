@@ -13,7 +13,8 @@ PrinterActivityLogger is a simple .NET console application that uses Windows Man
 - Administrator privileges (required for WMI queries)  
 
 ## Installation
-1. Clone the repository or download the source code:  
+
+Clone the repository or download the source code:  
    ```bash
    git clone https://github.com/yourusername/PrinterActivityLogger.git
 
